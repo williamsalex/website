@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lambda_one: 1
+  lambda_nought: 1
+  general_milnor: 1
+  beta_invariant: 1
+  ICIS: false
+  reducible: false
+  notes: MyString
+
+two:
+  lambda_one: 1
+  lambda_nought: 1
+  general_milnor: 1
+  beta_invariant: 1
+  ICIS: false
+  reducible: false
+  notes: MyString
